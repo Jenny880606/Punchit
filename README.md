@@ -6,7 +6,7 @@
 
 **指導老師: 葉奕成**
 
-<img src="pics/1.png" width="200px" height="200px">
+<img src="pics/1.png" width="300px" height="300px">
 
 ## 作品發想
 * 當初玩Cytus玩得很盡興，但覺得這樣僅侷限於2D螢幕上而已，不夠過癮。
